@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background-color:#5676a6;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+}
+
+#a1{
+    border-radius: 10px;
+}
+
+#empty{
+    font-family: 'Bebas Neue', cursive;
+}
